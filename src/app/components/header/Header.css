@@ -1,0 +1,37 @@
+.logoHead{
+    font-family: Archivo;
+font-size: 21px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+}
+.mainNav{
+    justify-content: space-between !important;
+
+}
+.forms{
+    background: #EEF0FA;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.navlinks{
+font-family: Poppins;
+font-size: 16px;
+font-weight: 300;
+line-height: 24px;
+letter-spacing: 0.4399999976158142px;
+text-align: left;
+color: #8484A0;
+
+
+
+}
+.icon{
+    color: #A1A3D4;
+    width: 16px;
+height: 21px;
+top: 2px;
+left: 4px;
+}
