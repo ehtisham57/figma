@@ -1,0 +1,223 @@
+.mainheading {
+    padding: 0 20px;
+    margin: 20px;
+    font-family: Poppins;
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 44px;
+    letter-spacing: -0.4399999976158142px;
+    text-align: left;
+
+}
+
+.maincard {
+    align-items: center;
+    margin: 0px 50px;
+    box-shadow:
+        0 2.8px 2.2px rgba(108, 73, 172, .1),
+        0 6.7px 5.3px rgba(108, 73, 172, .1),
+        0 12.5px 10px rgba(255, 255, 255, .4),
+        0 22.3px 17.9px rgba(108, 73, 172, .02),
+        0 41.8px 33.4px rgba(108, 73, 172, .05),
+        0 100px 80px rgba(108, 73, 172, .09)
+}
+
+.outer-circle {
+    width: 150px;
+    height: 150px;
+    border: 8px solid #FF708B;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.inner-circle {
+    width: 100px;
+    height: 100px;
+    border: 10px solid #FFBA69;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.totalEarning {
+    margin-top: 10px;
+}
+
+.topPara {
+    color: #383874;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0.4399999976158142px;
+    text-align: center;
+
+}
+
+.totalEarning>h4 {
+    color: #383874;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.totalEarning>h4>span {
+    color: #00B929;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.4399999976158142px;
+    text-align: center;
+}
+
+.bottomPara {
+    color: #383874;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0.4000000059604645px;
+    text-align: center;
+
+}
+
+.headinSix {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.4399999976158142px;
+    text-align: left;
+    color: #383874;
+}
+
+.paraSix {
+    color: #383874;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.4399999976158142px;
+    text-align: left;
+
+}
+
+.mainTwocard {
+
+    margin: 0px 50px;
+    background: #8676FF;
+    box-shadow:
+        0 2.8px 2.2px rgba(108, 73, 172, .1),
+        0 6.7px 5.3px rgba(108, 73, 172, .1),
+        0 12.5px 10px rgba(255, 255, 255, .4),
+        0 22.3px 17.9px rgba(108, 73, 172, .02),
+        0 41.8px 33.4px rgba(108, 73, 172, .05),
+        0 100px 80px rgba(108, 73, 172, .09)
+}
+
+.topParaTwo {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    letter-spacing: 0.4399999976158142px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.totalEarningtwo {
+    padding: 0 20px;
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0.4399999976158142px;
+
+}
+
+.totalEarningtwo>h4>span {
+    color: #00B929;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.4399999976158142px;
+}
+
+.bottomParatwo {
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0.4000000059604645px;
+}
+
+.horizontalLine {
+    border: 1px solid #6B5ED2;
+    margin: 20px;
+}
+
+
+
+.maincardThree {
+    margin: 0px 50px;
+    padding: 0 20px;
+    box-shadow:
+        0 2.8px 2.2px rgba(108, 73, 172, .1),
+        0 6.7px 5.3px rgba(108, 73, 172, .1),
+        0 12.5px 10px rgba(255, 255, 255, .4),
+        0 22.3px 17.9px rgba(108, 73, 172, .02),
+        0 41.8px 33.4px rgba(108, 73, 172, .05),
+        0 100px 80px rgba(108, 73, 172, .09)
+}
+
+.cardbottomhead {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.4399999976158142px;
+    text-align: left;
+    color: #383874;
+}
+
+.cardbottompara {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.4399999976158142px;
+    text-align: left;
+    color: #9292C1;
+}
+
+.cardbottomnumber {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.4399999976158142px;
+    text-align: left;
+    color: #383874;
+}
+
+.cardbottomnumber>span {
+    margin-left: 10px;
+    width: 12px;
+    height: 8px;
+    top: 9px;
+    left: 1px;
+    color: #00B929;
+
+}
